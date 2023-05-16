@@ -16,6 +16,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aramistoledo&show_icons=true" />
 </picture>
 
+![Snake animation](https://github.com/aramistoledo/aramistoledo/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
