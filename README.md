@@ -1,4 +1,4 @@
-## Olá meu nome é Aramis Toledo
+## Olá meu nome é Aramis
 - 🔭 Atualmente trabalho como Analista de Testes de Software / QA
 - 🌱 Sempre estudando algo para ter um bom crescimento profissional e pessoal.
 
